@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LogInAct</string>
+    <string name="log_in_page">Log In Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="emails">Email</string>
+    <string name="passwords">Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="already_registered_click_here_to_log_in">Already Registered? Click here to Log In.</string>
+    <string name="not_registered_yet_click_here_to_register">Not Registered yet? Click here to register.</string>
+    <string name="log_out">Log Out</string>
+    <string name="you_ve_successfully_loged_in">You\'ve successfully Loged In.</string>
+</resources>
